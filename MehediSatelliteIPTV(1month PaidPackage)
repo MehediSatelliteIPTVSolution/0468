@@ -5,6 +5,7 @@ http://iptvthunder.thunderbd.com/live/roarzone/roarzone/53.m3u8
 http://103.205.133.14/hls/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
+http://ddn.oncast.me:1934/dlive/sp1.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA", BTV CHATTOGRAM
 
@@ -42,7 +43,7 @@ http://45.249.187.238:8081/hls/live1.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/61.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
-
+http://103.135.208.14/live/ibox/bd/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BANGLA",BANGLA VISION HD
 http://45.249.187.238:8081/hls/new6.m3u8
@@ -54,7 +55,7 @@ http://45.249.187.238:8081/hls/new6.m3u8
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
-
+http://103.135.208.14/live/ibox/bd/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 http://iptvthunder.thunderbd.com/live/roarzone/roarzone/56.m3u8
@@ -150,6 +151,7 @@ http://103.205.133.14/hls/sony8.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HcnbnOU.png" group-title="ISLAM", Peace TV Bangla
+http://103.135.208.14/live/ibox/bd/34.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 
@@ -367,6 +369,9 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/R32SUUz.png" group-title="ENGLISH MOVIES",Fox Action Movies
+http://103.135.208.14/live/ibox/bd/136.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="ENGLISH MOVIES",HBO
 http://ccn.anytv.live:8080/hbo/tracks-v1a1/mono.m3u8
